@@ -1,7 +1,12 @@
-import React from 'react'
+import Hero from '@/components/home/Hero'
 
 export default function Page() {
   return (
-    <div>page</div>
+    <div>
+
+      {/* Hero Sec */}
+
+      <Hero/>
+    </div>
   )
 }
