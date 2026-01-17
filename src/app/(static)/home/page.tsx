@@ -6,6 +6,8 @@ export default function Page() {
 
       {/* Hero Sec */}
 
+      srishti made this
+
       <Hero/>
     </div>
   )
