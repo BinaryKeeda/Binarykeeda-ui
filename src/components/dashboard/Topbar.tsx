@@ -6,7 +6,7 @@ export default function Topbar() {
   return (
     <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
       <div>
-        <h2 className="text-4xl font-serif font-bold text-black">DASHBOARD</h2>
+        <h2 className="text-2xl font-serif font-bold text-black">DASHBOARD</h2>
         <p className="text-gray-500">Track your progress and achievements</p>
       </div>
 
